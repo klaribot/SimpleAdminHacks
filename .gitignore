@@ -1,6 +1,6 @@
 /target/
 /.settings/
-/bin/
+/paper/bin
 .project
 .classpath
 .metadata
